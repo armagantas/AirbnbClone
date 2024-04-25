@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EB0373F02BDA33550055F58F /* DestinationSearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB0373EF2BDA33550055F58F /* DestinationSearchView.swift */; };
 		EB54827E2BD47D900076979C /* AirbnbCloneApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB54827D2BD47D900076979C /* AirbnbCloneApp.swift */; };
 		EB5482802BD47D900076979C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB54827F2BD47D900076979C /* ContentView.swift */; };
 		EB5482822BD47D910076979C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB5482812BD47D910076979C /* Assets.xcassets */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EB0373EF2BDA33550055F58F /* DestinationSearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DestinationSearchView.swift; sourceTree = "<group>"; };
 		EB54827A2BD47D900076979C /* AirbnbClone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AirbnbClone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB54827D2BD47D900076979C /* AirbnbCloneApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AirbnbCloneApp.swift; sourceTree = "<group>"; };
 		EB54827F2BD47D900076979C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -138,6 +140,7 @@
 			children = (
 				EBAE22E42BD590EB005B8466 /* ExploreView.swift */,
 				EBAE22EA2BD5A34B005B8466 /* SearchAndFilterBar.swift */,
+				EB0373EF2BDA33550055F58F /* DestinationSearchView.swift */,
 			);
 			path = Explore;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EB5D7EAB2BD5AA1100E4960F /* ListingImageCarouselView.swift in Sources */,
+				EB0373F02BDA33550055F58F /* DestinationSearchView.swift in Sources */,
 				EBAE22E92BD594B7005B8466 /* ListingItemView.swift in Sources */,
 				EB5482802BD47D900076979C /* ContentView.swift in Sources */,
 				EBAE22E52BD590EB005B8466 /* ExploreView.swift in Sources */,
